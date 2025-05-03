@@ -4,6 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-savain.blaneus20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savain.blaneus20@gmail.com)](mailto:savain.blaneus20@gmail.com)
 
 ## Mon Portfolio - [Portfiolio](notion.so/Hello-This-is-Savain-84aee13ab3214f319cec0b948aad0859)
-Je vous conseille d'aller faire un tour pour avoir plus d'information sur moi, mais surtout pour voir à quoi ressemble mes autre projet, (ils sont pas tous sur GitHub est pas les meilleur)
+Je vous conseille d'aller faire un tour pour avoir plus d'information sur moi, mais surtout pour voir à quoi ressemble mes autre projet, (ils sont pas tous sur GitHub et pas les meilleur)
 
 Mes Projet - [personnelle](notion.so/Hello-This-is-Savain-84aee13ab3214f319cec0b948aad0859)
